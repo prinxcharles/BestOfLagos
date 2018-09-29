@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/list_item"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/list_item"
+    android:backgroundTint="@color/colorPrimary"
+    android:minHeight="@dimen/list_item">
+
+    <ImageView
+        android:id="@+id/landmark_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/location"
+        android:scaleType="fitXY" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:background="#80000000"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/landmark"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_toLeftOf="@id/location_icon"
+            android:paddingLeft="@dimen/list_text_padding"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/text_size_extra_large"
+            android:textStyle="bold"
+            tools:text="Landmark" />
+
+        <TextView
+            android:id="@+id/location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingRight="@dimen/list_text_padding"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/text_size_large"
+            tools:text="@string/location" />
+
+        <ImageView
+            android:id="@+id/location_icon"
+            android:layout_width="@dimen/location_icon"
+            android:layout_height="@dimen/location_icon"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/location"
+            android:paddingRight="@dimen/list_text_padding"
+            android:src="@drawable/define_location_32" />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

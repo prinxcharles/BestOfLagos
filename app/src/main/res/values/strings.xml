@@ -1,0 +1,277 @@
+<resources>
+    <string name="app_name">Best Of Lagos</string>
+    <string name="location">Location</string>
+    <string name="landmark">Landmark</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="mall">Malls</string>
+    <string name="beaches">Beaches</string>
+    <string name="history">History and Arts</string>
+    <string name="parks_and_gardens">Parks and Nature</string>
+    <string name="play_center">Play Center</string>
+    <string name="night_clubs">Night Clubs</string>
+
+
+    <string name="icm">Ikeja City Mall</string>
+    <string name="leisure_mall">Leisure Mall</string>
+    <string name="silverbird">Silverbird Galleria</string>
+    <string name="the_palms">The Palms</string>
+    <string name="maryland_mall">Maryland Mall</string>
+    <string name="city_mall">Lagos City Mall</string>
+    <string name="e_center">E centre</string>
+    <string name="centro_mall">Centro Lekki Mall</string>
+    <string name="novare_mall">Novare Mall</string>
+    <string name="circle_mall">Circle Mall</string>
+
+    <string name="tarkwa_bay">Tarkwa Bay</string>
+    <string name="lekki_leisure">Lekki Leisure Lake</string>
+    <string name="oniru_beach">Oniru Private Beach</string>
+    <string name="inagbe_resort">Inagbe Grand Resort</string>
+    <string name="alpha_beach">Alpha Beach</string>
+    <string name="atican_beach">Atican Beach</string>
+    <string name="eleko_beach">Eleko Beach</string>
+    <string name="coconut_beach">Coconut Beach</string>
+    <string name="halemson_beach">Halemson Beach</string>
+    <string name="elegushi">Elegushi Beach</string>
+
+    <string name="national_museum">National Mueseum</string>
+    <string name="kalakuta_museum">Kalakuta Mueseum</string>
+    <string name="national_theatre">National Theatre</string>
+    <string name="new_afrika_shrine">New Afrika Shrine</string>
+    <string name="badagry_museum">Badagry Black Heritage Museum</string>
+    <string name="terra_kulture">Terra Kulture</string>
+    <string name="nike_art">Nike Arts Gallery and Culture Center</string>
+    <string name="jaekel_house">Jaekel House</string>
+    <string name="thought_pyramid">Thought Pyramid and Arts Center</string>
+
+    <string name="freedom_park">Freedom Park</string>
+    <string name="lekki_conservation">Lekki Conservation Centre</string>
+    <string name="jhalobia_park">Jhalobia Parks and Garden</string>
+    <string name="eden_park">Eden Park</string>
+    <string name="muri_okunola_park">Muri Okunola Park</string>
+    <string name="lufasi_nature_park">Lufasi Nature Park</string>
+    <string name="johnson_jakande_park">Johnson Jakande Tinubu Park</string>
+
+    <string name="hi_impact">HI-Impact Planet</string>
+    <string name="get_arena">GET Arena</string>
+    <string name="ikoyi_club">Ikoyi Golf Club</string>
+    <string name="xcite_park">Xcite Fun Park</string>
+    <string name="rosellas_park">Rosellas Amusement Park</string>
+    <string name="apapa_park">Apapa Amusement Park</string>
+    <string name="dreamwork_africana">Dreamwork Africana</string>
+    <string name="fun_factory">Fun Factory</string>
+    <string name="tickle_bay">Tickle Bay</string>
+    <string name="funtastica_land">Funtastica Land</string>
+
+    <string name="club_quilox">Club Quilox</string>
+    <string name="club_jazzhole">Jazzhole</string>
+    <string name="club_escape">Escape Nightlife</string>
+    <string name="club_57">Club 57</string>
+    <string name="club_the_garage">The Garage by Caliente</string>
+    <string name="club_vegas">Club Vegas</string>
+    <string name="club_pravada">Club Pravada</string>
+    <string name="club_cova_lounge">Cova Lounge</string>
+    <string name="club_rumours">Rumours Night Club</string>
+    <string name="club_cubana">Club Cubana</string>
+
+
+    <string name="location_vi">Victoria island</string>
+    <string name="location_lekki">Lekki</string>
+    <string name="location_ikeja">Ikeja</string>
+    <string name="location_badagry">Badagry</string>
+    <string name="location_maryland">Maryland</string>
+    <string name="location_surulere">Surulere</string>
+    <string name="location_sangotedo">Sangotedo</string>
+    <string name="location_ikoyi">Ikoyi</string>
+    <string name="location_ojota">Ojota</string>
+    <string name="location_onikan">Onikan</string>
+    <string name="location_yaba">Yaba</string>
+    <string name="location_lagos_island">Lagos Island"</string>
+    <string name="location_iganmu">Iganmu</string>
+    <string name="location_ebute_metta">Ebute Metta</string>
+    <string name="location_oshodi">Oshodi</string>
+    <string name="location_ibafo">Ibafo</string>
+    <string name="location_onilu">Onilu Village</string>
+    <string name="location_apapa">Apapa</string>
+    <string name="location_ajah">Ajah</string>
+    <string name="location_ilupeju">Ilupeju</string>
+
+    <string name="about_mall_icm">The Ikeja City Mall is a mall located at Alausa in Ikeja, Lagos State. It is the first of its kind on the Mainland of Metropolitan Lagos. There is a Silverbird cinema in the mall as well shoprite, eateries, clothing brands and clothing stores and different bank ATMs.\n
+        \nComprising 23,000m2 of A-grade retail space in Ikeja, a suburb of the city of Lagos and the capital of the state, ICM is an ultra-modern Shopping Centre in what is described as a dual economic state; residential but predominantly commercial. ICM is the choice retail destination in Lagos with a wide selection of national and international tenants.\n
+        \nThe shopping center has a 5-screen Silverbird Cinemas (the first and only cinema theatre in Ikeja) and a Shoprite Supermarket. It also includes specialist facilities for department stores, banks, cafés, bars, restaurants, hairdressing / beauty salon, ice-skating arena, etc.\n</string>
+    <string name="about_mall_leisure">Surrounded with misted glass exterior and interior open-air walkways, this is one of the most attractive and best family entertainment centre in Lagos, A favorite among the \'Mainlanders\' both for its proximity with Adeniran Ogunsanya Shopping Mall as well as housing the popular Filmhouse Cinemas, the mall delivers on its name: Leisure.\n
+        \nEven though it is sited beside the popular Adeniran Ogunsanya Shopping Mall, Leisure Mall houses some unique brands that stands out, such as Mr Price, Filmhouse Cinemas, Bheerhugz Café, Barcelos, Nike among others. It has a link-bridge with the Adeniran Ogunsanya Shopping Mall to allow ease of movement between the two malls for customers.\n</string>
+    <string name="about_mall_silverbird">Silverbird Galleria was established in 2004 by Silverbird Group, a media and real estate company founded by Ben Murray-Bruce in the 1980s. The movie theatre, Silverbird Cinemas which revolutionalized cinema in Nigeria pioneered the first five-screens Cineplex in sub-Saharan Africa.\n
+        \nSilverbird Galleria has a shirts retailer, café and mobile network offices for feasible communication and internet access, all located on the ground floor. Electronic gadgets retailers and the Rhythm 93.7 FM broadcasting studio (operated by Silverbird) are on the first floor. The second floor has arcades and food services.
+        The Silverbird Cinema is on the third and topmost floor. Additional services include a pharmacy, lounge and beauty shop \n</string>
+    <string name="about_mall_the_palms">The Palms Shopping Mall is located on a 45,000-square-metre (11-acre) plot of land in Lekki, Lagos State. It has 21,000 square metres (5 acres) of lettable retail space. The mall was built on swampland that was reclaimed by the government recently and construction was commissioned by the Oba of Lagos and former President Obasanjo. The mall, which opened in late 2005, has 69 stores and a modern six screen cinema. There is parking space for about 1000 cars.\n
+        \nThe Palms Shopping Mall (up until Polo park opens in Enugu) is the second largest shopping mall by gross leasable area after Ado Bayero Mall located in Kano and first of its kind in Nigeria. The mall is owned by Persianas Properties Limited (Part of the Persianas Group), promoted by Nigerian Businessman Tayo Amusan, a Nigerian property developer.\n
+        \nThe Anchor Tenants at the mall are South African Giants: Game and ShopRite and The Hub Media Store. The line shops, which range in size between 28-590 square metres (300-6,400 square feet) come in different widespread categories of diverse merchandise and services.\n
+        \nGame (part of the Massmart Group - recently taken over by Walmart) a discount retail chain occupies the largest space at about 5495 square metres. ShopRite, which labels itself as African’s largest grocery store opened their first store in Nigeria at The Palms and The Hub Media Store - Nigeria's largest media store operates on the upper floor.\n
+        \nGenesis Deluxe Cinemas operates a 6 screen cinema on the upper floor showing both international and Nigerian movies.</string>
+    <string name="about_mall_maryland">Strategically located to conveniently serve the shopping and leisure needs of Maryland, Mende, Ikeja, Anthony and Ilupeju environs, Maryland Mall offers you a new refreshing shopping and leisure experience on the mainland. The carefully designed masterpiece will be home to over 50 shopping outlets, banks, restaurants, a supermarket and a state of the art cinema facility all carefully selected with your leisure and shopping needs in mind.\n
+        \nMaryland Mall has been designed with a vision similar to that which built the city of Dubai: "build it and they shall come!". This thinking is engraved in the architectural design of the building, the careful selection of leisure and shopping outlets to be located within the mall; and the fact that the mall hoists the largest digital LED screen in Sub-Saharan Africa. Visible to both sides of the voluminous Ikorodu Road traffic, this screen is guaranteed to be a must-see major landmark on the mainland.\n
+        \nThe Maryland Mall has been designed with every bit of your comfort and convenience in mind. It's convenient location, internal ambience, exterior illumination and generous parking facilities have been carefully designed to ensure every visit to the Maryland Mall will leave you longing for the next.</string>
+    <string name="about_mall_city">The Lagos City Mall is a modern shopping centre located in Onikan, Lagos Island. It is in proximity to many prominent Lagos landmarks such as the Muson Centre, the Tafawa Balewa Square, Onikan Stadium, the National Museum and the Radisson Blu Anchorage Hotel, Victoria Island.\n
+        \nFacilities at the City Mall in Lagos include:\n
+        \n- 50 shops, including designer and high street boutiques.
+        \n- Three restaurants on the second floor.
+        \n- Children\'s play area.
+        \n- Two cinemas, all on the second floor.
+        \n- Central air-conditioning system.
+        \n- Parking for about 300 cars.
+    </string>
+    <string name="about_mall_e_centre">Popularly known as The E-Centre, Domino Mall Yaba opened for business on Thursday, 13th of November, 2008. Since then, it has retained its position as the top place for hangouts and movie viewing in Lagos Mainland. The mall houses Domino Mall, Ozone Cinemas, several retail shops, restaurants, indoor game centres, banks and service providers.\n
+        \nIt\’s a great place for a family outing where the kids can have fun playing the various arcade games while the parents relax and enjoy a quiet afternoon together.\n
+        \nYou can visit the E- Centre on any day of the week. One of the great things about this mall is that it is never as crowded as its other counterparts on the mainland like the Ikeja Cinemas or  Filmhouse Surulere. This means you can safely plan your movie date or hang out on the weekend without fear of crowds.\n
+        \nDo be careful however to steer clear of the mall on evenings when a new blockbuster movie is being shown for the first time at Ozone Cinemas. The cinema floor is usually flooded with young movie fans. If this you aren’t a fan of crowds, best to plan your visit on another day.
+    </string>
+    <string name="about_mall_centrole">Purpose built to be the premier provider of shopping, food, event and fitness space, Centro Lekki Mall encompasses service quality and value.\n
+        \nCentro Lekki Mall is managed by an onsite dedicated team to ensure the maintenance of both quality and standards.\n
+        \nThese are the following things you can do while you\'re here:
+        \n•	Browse and purchase clothes, fashion accessories and other goods that catch your fancy
+        \n•	Meet with friends and enjoy great meals
+        \n•	Retire the night here and enjoy drinks with colleagues, friends and pals
+    </string>
+    <string name="about_mall_circle">Circle Mall accommodates 10,800 square metres of exceptional quality retail space and 3000 square metres of state-of-the-art office capacity. Circle Mall’s dedicated business centre is adjacent to the retail sector and is comprised of 3000 square metres consisting of three floors of 1000 square metres each of A-grade office space.
+        With 72 parking bays, elegant, professional design and international quality business essentials, business will run smoothly from the newly developed commercial space. The outdoor shopping mall has variety of stores ranging from food to clothing, healthcare and much more.
+        Some of the stores at the mall include Shoprite, Healthplus, The place fast-food, Accessories 4 u, nutsaboutcakes, ying-yang express, skechers, ruff n tumble, casa bella, essenza, sumptuous soup, rhapsody\'s and other stores.</string>
+    <string name="about_mall_novare">As the primary retail facility for the surrounding community, Novare Lekki strives to provide a complete shopping and entertainment experience. With Shoprite and Game as anchor tenants, as well as Genesis Cinemas, the mall has approximately 100 shops and 1 000 parking bays.\n
+        \nThe centre incorporates the latest elements in modern shopping centre design and aims to provide visitors with state-of-the-art facilities in a user-friendly, safe and pleasant environment.\n
+        \nVisitors to Novare Lekki are spoilt for choice. Our tenants represent the latest trends in retail, offering a broad spectrum of products and services - from banking, groceries and cosmetics to fashion, electronics and furniture.\n
+        \nNovare Lekki is the second development in the Novare Real Estate Africa portfolio. With a mandate to develop and manage modern retail and commercial facilities across sub-Saharan Africa, excluding South Africa, the portfolio is fast becoming one of the strongest across the sub-continent.
+    </string>
+
+    <string name="about_beach_tarkwa">As crazy as Lagos can be, there are some places in it that offer a different kind of freedom that can hardly be found, Tarkwa Bay is one them. Located on an island near Lagos harbour, Tarkwa Bay is a sheltered beach that welcomes visitors to her bosom of peace. The beach is remote from the everyday madness of Lagos city; thus, giving it a euphoria that makes it impossible for visitors to worry about the hustle they left behind.\n
+        \nUnlike most beaches in Lagos that are becoming more groovy than peaceful, Tarkwa Bay, in its elevating beauty, pride itself as a free haven that is not usually noisy or crowded; making it a unique place to have some quiet time with loved ones or a fun get-together with friends.\n
+        \nHowever, there are minor buying and selling going around the beach: The resident community makes their living from tourists who visit the beach, and they do what they can to keep it clean and receptive enough for visitors to enjoy themselves. \n
+        \nAs a matter of fact, Tarkwa Bay is counted among the "well kept" beach in Lagos; jet skiing and water-skiing are common sports there, so it is advisable for visitors to take their water sports equipment when visiting.\n
+        \nHOW TO GET TO TARKWA BAY
+        \nAs mentioned earlier, Tarkwa Bay located on an island, so it is only accessible by water. Nevertheless, there are several places in Lagos Island where you can board a ferry or high-speed boat to the bay. And some of this places include Marina, Mekwe Jetty and Tarzan Marine (Victoria Island).
+    </string>
+    <string name="about_beach_elegushi">Elegushi Royal Beach is a private beach owned by the Elegushi Royal family, led by HRM Oba Alayeluwa Saheed Ademola Elegushi. It is arguably the most popular beaches in Lagos. The beach is well known to be the go-to fun place for great meals, nightclubs, and hang out spots. This beach is the perfect spot for picnics, parties or social gatherings.\n
+        \nIf you wish to enjoy Elegushi, without large crowds, you should visit the beach on weekdays. But be aware, everyone loves Elegushi Beach, so if you are looking for a day alone there, you’re probably never going to get it.\n
+        \nElegushi on the weekends is alive!  There are special events like Live Band performances, various shacks on the shoreline turn into clubs at night, there are food and fun activities galore.\n
+        \nAt Elegushi beach, there are various food vendors serving mouth-watering local dishes and a wide variety of spirits and non-alcoholic drinks. People especially love the grilled fish, suya, asun and nkwobi. If you are lucky, you might even find some stalls selling fresh palm wine.\n
+        \nOn top of all the fun to be had at Elegushi Beach, the beach also hosts Copa Lagos – a world famous beach soccer tournament that features best teams from all continents. Other special shows and live performances also take place at the beach.
+    </string>
+    <string name="about_beach_lekki_leisure">Located opposite the three-story Vantage Beach Hotel, Lekki Leisure Lake is the best destination authentic outdoor fun in Lagos. The resort is a safe and tranquil destination suitable for a family outing, a group adventure or even a fun day out with your significant other.\n
+        \nAt Lekki Leisure Lake you can partake in thrilling adventurous activities like quad biking, jet skiing, zip lining and much more!\n
+        \nThe Resort management doesn’t permit external food on the promises, but this isn’t really a problem. All the food and drinks you might want are available for you. You can just grab a quick snack or opt for a full filling meal. You know what goes great with a day at the waterside? barbeque and Lekki Leisure Lake has its meat grilled to perfection.
+    </string>
+    <string name="about_beach_oniru">Oniru Beach is a beautiful and serene private beach in Lagos owned by the Oniru Royal Family.  It’s a popular venue for parties, live shows, and special events. Due to the privacy and fun, this beach offers, upon arrival there, you will spot many expats and couples enjoying Oniru Beach. When you visit Oniru Beach, ensure you are ready to have a good time and make wonderful memories.\n
+        \nIf you are looking for a quiet time at Oniru Beach, the best time to visit is on a weekday. But, if you are looking for a fun filled time, Sunday evenings at Oniru Beach are often pumped with the party feeling.\n
+        \nWhenever you do choose to visit, note that the beach observes a strict 12:00 pm curfew. After that time, no entry will be allowed, but once you get in before 12:000pm, you may leave the beach when you desire.\n
+        \nThere are various bar shacks offering assorted drinks and grilled spicy food while you get massaged by the sea breeze.  You can enjoy wholesome servings of suya, grilled fish, and other refreshments.  A lot of the bars on the beach are owned by celebrities and socialites who sometimes make an appearance.\n
+        \nA lot of the bars on the beach are owned by celebrities and socialites who sometimes make an appearance. Visit Oniru Beach on a Sunday even to get a feel of how electrified the Lagos nightlife can get by the ocean side. The beach is also the venue for various concerts and live performances.
+    </string>
+    <string name="about_beach_inagbe">Set on the tranquil banks of the magnificent Lagos Lagoon and the Atlantic Ocean, Inagbe Grand Resorts and Leisure is a modern Lagos leisure resort offering total comfort and relaxation.\n
+        \nDiscover rustic living in a lush island haven, resonating air of simple luxury and refined elegance. This Lagos beach resort offers pristine beauty especially for those that love nature at its best.\n
+        \nSet on the tranquil banks of the magnificent Lagos Lagoon and the Atlantic Ocean, Inagbe Grand Resorts and Leisure is a first of its kind resort in the Lagos City.\n
+        \nThis show piece resort captures the essence of nature, culture and tradition with almost 100% local materials to achieve the formation of Inagbe Grand Resorts.\n
+        \nInagbe Grand Resorts offers exciting atmosphere that will make you feel “Home away from home”.\n
+        \nWarm Welcome! Please relax and let nature give you the best treat that you can ever imagine.
+    </string>
+    <string name="about_beach_alpha">Alpha Beach is one of the more beautiful beaches in Lagos, it is located in Lekki. The beach is well-known for its cleanliness, shacks made of palm fronds and umbrella which protects against the sun. Alpha beach used to play host to thousands of people till a whale was washed ashore by the ocean surge.\n
+        Clean, well-equipped and with several entertaining and thrilling eye-catchers, it is the perfect place for all age groups to get their adrenaline pumping and have a day of adventure.
+    </string>
+    <string name="about_beach_atican">Atican Beach resort is a pristine ocean-side destination in Lekki. The private beach resort is a center for fun and relaxation. Its clean white sand and beautiful Caribbean style layout make it a great destination for romantic getaways, group hang out and family outings.  It has lodges and a restaurant too! Whether you are looking for a great barbeque or cook-out location or a swimming pool with a great view, Atican Beach is where you want to be.\n
+        \nAtican Beach Resort is easily accessible from Lekki-Epe Expressway. The road leading to the resort is well maintained and shouldn’t cause you any trouble. To get to the resort, follow Lekki – Epe Expressway to Ogombo Road in Lekki for 19.8km, then join the Okun-Ajah Community Road for 5.8 km and you are there!\n
+        \nThough you are not allowed to bring food into the resort, excellent food is available at the beach restaurant. You should definitely try the “small chops”, you’ll love it!There’s also a bar ready to take all your drink orders.
+    </string>
+    <string name="about_beach_eleko">Eleko Beach offers a peaceful retreat for privacy seeker or couple’s looking to enjoy a good time away from the hustle of Lagos. This public beach,  located close to La Campagne Tropicana, offers private beach features bamboo huts. It also less rowdy than other public beaches in Lagos and considered to be cleaner.\n
+        \nAs you can expect, fun lovers enjoy a visit to the beach on the weekends. If you are looking for a quiet and reflective time at the beach, you should visit Eleko on a weekday.  Even though more people troupe into Eleko Beach on weekends, it generally doesn’t get as crowded as the other popular public beaches in Lagos like Elegushi Beach, Bar Beach and Alpha Beach.  Also, the huts at Eleko Beach make you people like you’re having your own private beach experience. Which means, in reality, any day of a week is a good day to visit this beach.\n
+        \nThough you can take your food along with you, you won’t want to miss the chance to eat fish and crustaceans that are fresh from the ocean. You can haggle with fishermen at the shore and then have your fish barbequed right there on the beach.\n
+        \nAlso, there are various coconut hawkers on the beach. You can purchase coconuts from them and drink the coconut juice right from the husk.
+    </string>
+    <string name="about_beach_coconut">Aptly named for its Coconut trees, this is a favorite beach in the coastal town of Badagry. The beach is located about 20 miles towards the border of Nigeria and the Republic of Benin. It is a great place to visit as a couple because it is a Coconut Beach far removed from the noise of suburbia and is instead surrounded by holiday resorts, vacation huts, fresh air, palm trees, fresh air and an open sky.\n
+        \nThe environment portrays an idyll defined by rural nature and nostalgia, a place where you can walk barefooted on the beach-white sand.\n
+        \nCoconut Beach is one of the most popular beaches in Badagary, especially towards the end of the year during the Christmas and New Year celebrations. If you are looking for a fun and exciting celebration, this is the best time to visit.
+        \nHowever, you what you\’d like is a quiet and relaxing time with your significant other, then Coconut Beach on a weekday is the best time for you.\n
+        \nYou can enjoy different types of music played at the beach. Many people visit Coconut each for the entertainment is available many times of the week and they are never disappointed.\n
+        \nYou can also enjoy a drink of fresh coconut juice from the husk. In fact, it would be a crime to visit this beach named after its delicious coconuts and not try some of it.\n
+        \nHorse riding another fun thing you can do at this beach. Enjoy the galloping ride as the ocean breeze uplifts your spirits
+    </string>
+    <string name="about_beach_halemson">Halemson Beach Resort is located in Ikaare Island Satellite Town Lagos state Nigeria about 1hour 30 minutes boat cruise from Victoria Island and 10 minutes boat cruise from Satellite Town waterside with MTN Resort to its left and First Bank of Nigeria’s Resort to its right as its neighbouring private resorts an exclusive beach over-viewing the Atlantic Ocean on the Nigerian coastline in Lagos.\n
+        \nHalemson Beach Resort is a tourist haven, with a vision to create a new dimension in Nigeria\’s leisure, tourism and hospitality sectors tapping Nigeria’s vast natural endowments; Rich blend of Nigerian natural private beach Island, leisure boat cruises and seafood cuisines within Lagos State, the commercial hub of Nigeria. Their services are tailored to meet the specific needs of the individual or group. They can be confined to meet the creative demands or the liveliness and excitement that the fun seekers crave. Facilities at the resort include Restaurant/bar, Accommodation, Recreation, and local attraction etc. Restaurant/bar serves both continental and African meals which make the Tourist and visitors to the resort chose the type of meal which they prefer to be served. Accommodation at the resort is simple and comfortable for the enjoyment of the tourist and visitors.
+    </string>
+
+    <string name="about_history_national_museum">Established in 1957, National Museum Lagos has great collections in archaeology, ethnography and traditional art. Located in Onikan, Lagos, National Museum displays contemporary arts and historical monuments.\n
+        \nThe main attractions at the museum are the galleries dedicated to brasses from Benin City, Nok Terracottas etc. Another gallery dedicated to traditional symbols of power contains carved ivory and a royal host of crowns.\n
+        \nThe museum houses the bullet-riddled car in which the country\’s former Head of State – late General Murtala Mohammed – was assassinated in 1976.\n
+        \nThis museum also operates a nonprofit crafts centre, which stocks a good range of batik cloth, woodcarvings and textiles at fixed prices. There\’s a fine range of intricately decorated calabashes from across Nigeria. The National Museum Lagos has a small crafts village with woodcarvings and other handicrafts for sale at fixed prices; you might also see a demonstration of adire – cloth-making from Abeokuta.
+    </string>
+    <string name="about_history_kalakuta">The Kalakuta museum is a \’living history\’ museum that gives an insight into the life and struggle of the late afrobeat legend Fela Anikulapo Kuti.\n
+        \nThis was built in 2012 to allow us better understand the life and struggle of the Late afrobeat legend Fela Anikulapo Kuti. It is notable as home to the relics from the life of Fela.\n
+        \nDue to the corruption of the then military government, Fela felt he couldn\’t be part of such and declared the Kalakuta Republic a sovereign state and independent of Nigeria.
+    </string>
+    <string name="about_history_national_theatre">Covering an area of about 23,000 square meters and standing well over 31 meters tall, The National Theatre fills you with a sense of awe and respect. An architectural masterpiece and cultural landmark, the edifice is one of the few properties of the country that has stood the test of time. Being home to everything art, the National Theatre provides an avenue for you to learn a lot more about art while having fun in its lush environment.\n
+        \nConstructed in 1976 by the military regime of General Yakubu Gowon and completely by General Olusegun Obasanjo, the National Theatre has continued to house ancient art, while progressively inviting modern works by new artists. One major dynamics of the theatre is its fascinating interior and exterior design. With its hat-like shape, the complex has a 5,000 seater hall with a collapsible stage and two capacity cinema halls, surrounded by an exterior consisting of sculptures, trees, wall carvings, lawns, lakes and lush vegetation to mention a few.
+    </string>
+    <string name="about_history_new_afrika">Thinking about taking your nightlife escapades to the next level? Then think Fela Shrine a.k.a The New Afrika Shrine. From the genre of music to the inspirational story-telling lyrics, not forgetting the sacrosanct palm-wine, get ready to get a political education, a lesson in \’shakin-it\’ and a contact high!\n
+        \nThe New Afrika Shrine, an open-air entertainment centre located in Ikeja, Lagos State. It serves as the host location of the annual Felabration music festival. Currently managed by Femi Kuti and Yeni Anikulapo-Kuti, it is the replacement of the old Afrika Shrine created in 1970 by Fela Kuti until it was burnt down in 1977. The New Afrika Shrine showcases photo galleries of Fela and musical performances by Femi Kuti and Seun Kuti, thus making it a tourist attraction.
+    </string>
+    <string name="about_history_badagry_museum">A former district officer\’s office built in 1863 in the ancient city of Badagry, this museum shows artifacts and works of the Nigerian history, even predating the slave trade era. The gallery is divided into eight subdivisions intended to take you on a slave history ride as you progress through the museum. Step in and come out amazed with the rich history and culture Nigeria has. The people of Badagry resisted the urge to let go of some of the artifacts in this museum as it forms part of the rich history.\n
+        \nIt is best to visit any period from 9am to 5pm as the locals are welcoming people and are always willing to take you on a tour of the facility. The museum is closed on Sundays though.
+    </string>
+    <string name="about_history_terra_culture">Terra Kulture is a privately owned educational and recreational centre; a perfect place for the lovers of art, culture and everything African. Located in the Victola Island area of Lagos City, Terra kulture has a mini library or information centre on Nigeria and Africa.\n
+        \nThe centre\’s mini library is stocked with books, contemporary journals and magazines and wireless internet facilities and flat screen computers for its members.\n
+        \nTerra Kulture is a very popular spot amongst the expatriates community and it offers visitors an opportunity to see Nigerian arts and crafts in display for those wanting to learn about Nigerian cultures and languages.\n
+        \nThe centre also features a multi-purpose hall with facilities for drama presentation, conferences and seminars; and a cosy restaurant portraying the richness of Nigerian cuisines.\n
+        \nAnother great thing about Terra Kulture is the art shop dedicated to the promotion of crafts and traditional skill which includes tie and dye making, pottery, mat weaving, batik making, etc.\n
+        \nMembers also have access to an audio-visual room and a modern café serving African snacks.
+    </string>
+    <string name="about_history_nike_art">Nike Art Gallery is an art gallery in Lagos owned by Nike Davies-Okundaye. The gallery is arguably the largest of its kind in West Africa. Housed in a five-storey tall building, it boasts a collection of about 8,000 diverse artworks from various Nigerian artists\n
+        \nA magnificent five-storey building coated in spotless white, standing high and proud in its environs. Nike\’s Art Gallery tells its story from the outside. The fence of the compound is adorned with rare marbles, while its walls are covered in different artistic inscriptions and drawings. You immediately feel a deep sense of awe once you walk through its colourfully tattooed black gates. This historical abode ranks high in the list of bedazzling Lagos destinations.\n
+        \nFrom the inner courtyard of the gallery where you\’ll find the stone sculptures, tie-dye workshop and hanging craftworks, to the wide variety of art displayed inside the magnificent structure, you can rest assured that your love for Nigerian art will go through the roof.\n
+        \nWith arts and crafts dating back centuries, Nike\’s art gallery poses as one of the best preservation venues for Nigeria\’s ancient traditional values and symbols. Whether you are an enthusiast of African arts, a specialist in the arts, or merely interested in a brief immersion in a new culture. Nike offers the opportunity to see Nigeria with fresh eyes.
+    </string>
+    <string name="about_history_jaekel_house">It is a railway and Legacy museum archiving images of personalities, places and historical events in pre and post independent Nigeria, from 1940s through 1970s.\n
+        \nNamed after the Late Francis Jaekel, a former superintendent of the corporation, who retired after almost thirty years serving the corporation. Built in 1898, Jeakel House was formerly the residence of the General Manager before it became a senior staff rest house. The building which is described by many as a classic colonial architecture has been standing for over 100 years and it was restored in 2010 by professor John Godwin as the Legacy and Railway Museum.\n
+        \nBefore heading to Jaekel Railway Museum, here are some things to take along; a good camera to take selfies and a notepad to take notes.
+    </string>
+    <string name="about_history_thought_pyramid">An alternative gallery that bridges the gap between commercial galleries and traditional art institutions with a mission to "collect, conserve, and study modern and contemporary art of Africa, and the African Diaspora", this is one place that will appeal to art enthusiasts and lovers\n
+        \nThese are the following things you can do while you\’re here:\n
+        •	Check out the art works on display\n
+        •	Partake in the organized lecture\n
+        •	Sign up for the art trainings\n
+        •	Enjoy the theater shows and musicals
+    </string>
+
+    <string name="about_park_freedom_park">More details coming soon&#8230;</string>
+    <string name="about_park_lekki_conservation">More details coming soon&#8230;</string>
+    <string name="about_park_jhalobia">More details coming soon&#8230;</string>
+    <string name="about_park_eden">More details coming soon&#8230;</string>
+    <string name="about_park_muri_okunola">More details coming soon&#8230;</string>
+    <string name="about_park_lufasi_nature">More details coming soon&#8230;</string>
+    <string name="about_park_johnson_jakande">More details coming soon&#8230;</string>
+
+    <string name="about_play_get_Arena">More details coming soon&#8230;</string>
+    <string name="about_play_hi_impact">More details coming soon&#8230;</string>
+    <string name="about_play_ikoyi_golf">More details coming soon&#8230;</string>
+    <string name="about_play_xcite_fun">More details coming soon&#8230;</string>
+    <string name="about_play_rosellas">More details coming soon&#8230;</string>
+    <string name="about_play_apapa_amusement">More details coming soon, &#8230;</string>
+    <string name="about_play_dreamwork_africana">More details coming soon&#8230;</string>
+    <string name="about_play_fun_factory">More details coming soon&#8230;</string>
+    <string name="about_play_tickle_bay">More details coming soon&#8230;</string>
+    <string name="about_play_funtastica_land">More details coming soon&#8230;</string>
+
+    <string name="about_club_quilox">More details coming soon&#8230;</string>
+    <string name="about_club_jazzhole">More details coming soon&#8230;</string>
+    <string name="about_club_escape">More details coming soon&#8230;</string>
+    <string name="about_club_57">More details coming soon&#8230;</string>
+    <string name="about_club_the_garage">More details coming soon&#8230;</string>
+    <string name="about_club_vegas">More details coming soon&#8230;</string>
+    <string name="about_club_pravada">More details coming soon&#8230;</string>
+    <string name="about_club_cova_lounge">More details coming soon&#8230;</string>
+    <string name="about_club_rumours">More details coming soon&#8230;</string>
+    <string name="about_club_cubana">More details coming soon&#8230;</string>
+    <string name="landmark_name">LandmarkName</string>
+    <string name="about_landmark">AboutLandmark</string>
+    <string name="image_res_1">imageResource1</string>
+    <string name="image_res_2">imageResource2</string>
+
+</resources>
+

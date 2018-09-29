@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_first_fragment"
+            android:icon="@drawable/ic_mall"
+            android:title="@string/mall" />
+        <item
+            android:id="@+id/nav_second_fragment"
+            android:icon="@drawable/ic_beach"
+            android:title="@string/beaches" />
+        <item
+            android:id="@+id/nav_third_fragment"
+            android:icon="@drawable/ic_history"
+            android:title="@string/history" />
+
+        <item
+            android:id="@+id/nav_fourth_fragment"
+            android:icon="@drawable/ic_park"
+            android:title="@string/parks_and_gardens" />
+
+        <item
+            android:id="@+id/nav_fifth_fragment"
+            android:icon="@drawable/ic_games"
+            android:title="@string/play_center" />
+
+        <item
+            android:id="@+id/nav_sixth_fragment"
+            android:icon="@drawable/ic_club"
+            android:title="@string/night_clubs" />
+
+    </group>
+
+
+</menu>
